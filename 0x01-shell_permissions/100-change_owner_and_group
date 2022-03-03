@@ -1,2 +1,2 @@
 #!/bin/bash
-echo"$(chown staff:vincent *) \n"
+chown vincent:staff $'\n'
