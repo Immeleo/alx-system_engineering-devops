@@ -1,0 +1,1 @@
+In this directory we will be learning and practicing Shell init files, variables and expressions.
